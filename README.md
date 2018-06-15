@@ -59,4 +59,4 @@ Here's an answer
 Share any information about contributing here. Do you have specific code guidelines for formatting and syntax?
 
 ## License
-Do you have a license? Maybe you want it to link to [Something](https://github.com/).
+Do you have a license? Maybe you want it to link to [something](https://github.com/).
