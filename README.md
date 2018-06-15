@@ -11,6 +11,7 @@
 
 ## Preview
 Share an image or gif of your project here.
+
 ![Preview of Project](https://github.com/tayloracox/readme-template/blob/master/preview.jpg "Preview of Project")
 
 ## Introduction
